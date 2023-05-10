@@ -9,6 +9,7 @@
 .text{text-align: center;}
 footer{top: 0px;left: 0; width:100%; color: rgb(0, 0, 0);}
 .foot{text-align: center; top: 0px; left: 0;}
+#col{color: rgb(0, 0, 0);}
 body {
     background-color: rgb(255, 255, 255);
   }
